@@ -153,7 +153,7 @@ Evaluates the performance of different airline services.
 
 # ✈ Dashboard 3 – Aircraft & Customer Insights
 
-![Aircraft & Customer Insights](Dashboard Snapshots/Aircraft & Customer Insights.png)
+(Dashboard Snapshots/Aircraft & Customer Insights.png)
 
 ### Purpose
 
