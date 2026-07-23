@@ -128,7 +128,7 @@ Provides a high-level overview of customer satisfaction and overall airline perf
 
 # 🍽 Dashboard 2 – Service Quality Analysis
 
-![Service Quality Analysis](Dashboard Snapshots/Service Quality Analysis.png)
+![Service Quality Analysis](British-Airways-Customer-Review-Analysis/Dashboard Snapshots/Service Quality Analysis.png)
 
 ### Purpose
 
@@ -153,7 +153,7 @@ Evaluates the performance of different airline services.
 
 # ✈ Dashboard 3 – Aircraft & Customer Insights
 
-Dashboard Snapshots/Aircraft & Customer Insights.png
+![Alt Text](images/filename.png)
 
 ### Purpose
 
