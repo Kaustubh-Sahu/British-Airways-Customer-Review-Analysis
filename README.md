@@ -217,7 +217,6 @@ Based on the analysis, the following recommendations are suggested:
 ```
 British-Airways-Customer-Review-Analysis
 │
-├── Assets
 ├── Dashboard Screenshots
 ├── Dataset
 ├── Power BI Project
