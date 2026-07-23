@@ -1,1 +1,56 @@
+# ==========================
+# Windows
+# ==========================
+Thumbs.db
+Desktop.ini
 
+# ==========================
+# macOS
+# ==========================
+.DS_Store
+
+# ==========================
+# Power BI Temporary Files
+# ==========================
+*.tmp
+*.bak
+*.lck
+*.lock
+
+# Power BI Auto Recovery
+*.pbix.autosave
+
+# ==========================
+# Office Temporary Files
+# ==========================
+~$*
+
+# ==========================
+# Log Files
+# ==========================
+*.log
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Python (if you later add analysis scripts)
+# ==========================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ==========================
+# Virtual Environments
+# ==========================
+venv/
+env/
+.venv/
+
+# ==========================
+# Temporary Export Files
+# ==========================
+*.cache
+*.temp
