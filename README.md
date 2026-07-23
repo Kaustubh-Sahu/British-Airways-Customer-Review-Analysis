@@ -128,7 +128,7 @@ Provides a high-level overview of customer satisfaction and overall airline perf
 
 # 🍽 Dashboard 2 – Service Quality Analysis
 
-![Service Quality Analysis]([British-Airways-Customer-Review-Analysis/Dashboard Snapshots/Service Quality Analysis.png](https://github.com/Kaustubh-Sahu/British-Airways-Customer-Review-Analysis/blob/main/Dashboard%20Snapshots/Aircraft%20%26%20Customer%20Insights.png))
+![Service Quality Analysis](https://github.com/Kaustubh-Sahu/British-Airways-Customer-Review-Analysis/blob/81f0fc9e30ea0e22111441b7580c84cfb8e41f03/Dashboard%20Snapshots/Aircraft%20%26%20Customer%20Insights.png)
 
 ### Purpose
 
