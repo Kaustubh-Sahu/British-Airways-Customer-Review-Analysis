@@ -153,7 +153,7 @@ Evaluates the performance of different airline services.
 
 # ✈ Dashboard 3 – Aircraft & Customer Insights
 
-![Alt Text](images/filename.png)
+![Aircraft & Customer Insights]([images/filename.png](https://github.com/Kaustubh-Sahu/British-Airways-Customer-Review-Analysis/blob/main/Dashboard%20Snapshots/Aircraft%20&%20Customer%20Insights.png?raw=true))
 
 ### Purpose
 
