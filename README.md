@@ -128,7 +128,7 @@ Provides a high-level overview of customer satisfaction and overall airline perf
 
 # 🍽 Dashboard 2 – Service Quality Analysis
 
-![Service Quality Analysis](Dashboard%20Screenshots/Dashboard%202.png)
+![Service Quality Analysis](Dashboard Snapshots/Service Quality Analysis.png)
 
 ### Purpose
 
