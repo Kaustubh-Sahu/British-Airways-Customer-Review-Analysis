@@ -102,7 +102,7 @@ Several reusable DAX measures were created to support dashboard calculations, in
 
 # 📈 Dashboard 1 – Executive Overview
 
-![Executive Overview](Dashboard%20Screenshots/Dashboard%201.png)
+![Executive Overview](https://github.com/Kaustubh-Sahu/British-Airways-Customer-Review-Analysis/blob/a6fa81b75d11224b221a52fd78d904f8a6eda19d/Dashboard%20Snapshots/Executive%20Overview.png)
 
 ### Purpose
 
@@ -128,7 +128,7 @@ Provides a high-level overview of customer satisfaction and overall airline perf
 
 # 🍽 Dashboard 2 – Service Quality Analysis
 
-![Service Quality Analysis](https://github.com/Kaustubh-Sahu/British-Airways-Customer-Review-Analysis/blob/81f0fc9e30ea0e22111441b7580c84cfb8e41f03/Dashboard%20Snapshots/Aircraft%20%26%20Customer%20Insights.png)
+![Service Quality Analysis](https://github.com/Kaustubh-Sahu/British-Airways-Customer-Review-Analysis/blob/a6fa81b75d11224b221a52fd78d904f8a6eda19d/Dashboard%20Snapshots/Service%20Quality%20Analysis.png)
 
 ### Purpose
 
@@ -153,7 +153,7 @@ Evaluates the performance of different airline services.
 
 # ✈ Dashboard 3 – Aircraft & Customer Insights
 
-![Aircraft & Customer Insights]([images/filename.png](https://github.com/Kaustubh-Sahu/British-Airways-Customer-Review-Analysis/blob/main/Dashboard%20Snapshots/Aircraft%20&%20Customer%20Insights.png?raw=true))
+![Aircraft & Customer Insights](https://github.com/Kaustubh-Sahu/British-Airways-Customer-Review-Analysis/blob/a6fa81b75d11224b221a52fd78d904f8a6eda19d/Dashboard%20Snapshots/Aircraft%20%26%20Customer%20Insights.png)
 
 ### Purpose
 
